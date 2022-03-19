@@ -15,6 +15,12 @@ Courses | Instructor | Type | Duration |
 [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/) | Stephen Grider | Data Structures + Algorithms | 13 hours | 
 [Master the Coding Interview: Big Tech (FAANG) Interviews](https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/) | Andrei Neagoie | Data Structures + Algorithms | 36.5 hours | 
 
+Courses | Offered by | Type | Month | Pace |
+:-- | :--: | :--: | :--: | :--: |
+[Data Structures and Algorithms Specialization](https://www.coursera.org/learn/algorithms-part1) | UC San Diego  | Data Structures + Algorithms| Approximately 8 months | 6 hours/week | 
+[Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | Princeton | Data Structures + Algorithms| N/A | 54 hours |
+[Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | Princeton | Data Structures + Algorithms| N/A | 63 hours |
+
 ## Tools
 
 [PythonTutor](https://pythontutor.com/)
