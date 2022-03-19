@@ -27,6 +27,12 @@ Courses | Instructor | Type | Duration |
 
 [tryexponent's video](https://www.tryexponent.com/courses/software-engineering/data-structures/sorting-algorithms)
 
+## Books
+
+Cracking the Coding Interview
+The Elements of Programming interviews
+
+
 
 ## Problems
 
