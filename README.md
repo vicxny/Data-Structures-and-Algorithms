@@ -17,7 +17,7 @@ Courses | Instructor | Type | Duration |
 
 ## Tools
 
-[pythontutor](https://pythontutor.com/)
+[PythonTutor](https://pythontutor.com/)
 
 ## Videos
 
