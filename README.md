@@ -6,7 +6,7 @@
 
 [How I Got Good at Algorithms and Data Structures](https://www.youtube.com/watch?v=9-ubSA9GA3o)
 
-## Course
+## Courses
 
 [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
 
