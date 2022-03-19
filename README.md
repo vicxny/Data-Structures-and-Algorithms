@@ -23,12 +23,13 @@
 
 ## Problems
 
-(Codewars)[https://www.codewars.com/]
+[Codewars](https://www.codewars.com/)
 
-(HackerRank)[https://www.hackerrank.com/interview/interview-preparation-kit]
+[HackerRank](https://www.hackerrank.com/interview/interview-preparation-kit)
 
-(Top 75 LeetCode Questions)[https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU]
+[Top 75 LeetCode Questions](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 
-(Ranking Interview Questions by Cram Score)[https://jeremyaguilon.me/blog/ranking_interview_questions_by_cram_score]
+[Ranking Interview Questions by Cram Score](https://jeremyaguilon.me/blog/ranking_interview_questions_by_cram_score)
 
-(Grokking)[https://www.educative.io/courses/grokking-the-coding-interview]
+[Grokking](https://www.educative.io/courses/grokking-the-coding-interview)
+
