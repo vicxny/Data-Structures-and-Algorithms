@@ -10,6 +10,8 @@
 
 [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
 
+[MIT 6.006 Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)-[Video](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+
 Courses | Instructor | Type | Duration |
 :-- | :--: | :--: | :--: |
 [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/learn/lecture/12202018?start=15#overview) | Andrei Neagoie | Data Structures + Algorithms | 19.5 hours | 
