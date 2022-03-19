@@ -5,8 +5,8 @@
 
 
 ## Prep
-(jwasham/coding-interview-university)[https://github.com/jwasham/coding-interview-university]
 
+[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
 
 ## Tools
 
