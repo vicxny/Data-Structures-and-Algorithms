@@ -34,7 +34,7 @@ Courses | Instructor | Type | Duration |
 
 [HackerRank](https://www.hackerrank.com/interview/interview-preparation-kit)
 
-[Top 75 LeetCode Questions](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+[Top 75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 
 [Ranking Interview Questions by Cram Score](https://jeremyaguilon.me/blog/ranking_interview_questions_by_cram_score)
 
