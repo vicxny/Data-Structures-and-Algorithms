@@ -27,6 +27,8 @@ Courses | Instructor | Type | Duration |
 
 [tryexponent's video](https://www.tryexponent.com/courses/software-engineering/data-structures/sorting-algorithms)
 
+[NeetCode's Playlist](https://www.youtube.com/c/NeetCode/playlists)
+
 ## Books
 
 Cracking the Coding Interview
