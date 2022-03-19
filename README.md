@@ -25,7 +25,7 @@ Courses | Instructor | Type | Duration |
 
 [HackerRank's Data Structure](https://www.youtube.com/watch?v=IhJGJG-9Dx8&list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX)
 
-[tryexponent's video](https://www.tryexponent.com/courses/software-engineering/data-structures/sorting-algorithms)
+[tryexponent's videos](https://www.tryexponent.com/courses/software-engineering/data-structures/sorting-algorithms)
 
 [NeetCode's Playlist](https://www.youtube.com/c/NeetCode/playlists)
 
