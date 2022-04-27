@@ -16,14 +16,14 @@
 
 [MIT 6.006 Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)- [Video](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) - [Advance](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf) - [Big Data](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf)
 
-Courses | Instructor | Type | Duration |
+Udemy Courses | Instructor | Type | Duration |
 :-- | :--: | :--: | :--: |
 [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/learn/lecture/12202018?start=15#overview) | Andrei Neagoie | Data Structures + Algorithms | 19.5 hours | 
 [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) | Colt Steele | Data Structures + Algorithms | 21.5 hours | 
 [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/) | Stephen Grider | Data Structures + Algorithms | 13 hours | 
 [Master the Coding Interview: Big Tech (FAANG) Interviews](https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/) | Andrei Neagoie | Data Structures + Algorithms | 36.5 hours | 
 
-Courses | Offered by | Type | Month | Pace |
+Coursera Courses | Offered by | Type | Month | Pace |
 :-- | :--: | :--: | :--: | :--: |
 [Data Structures and Algorithms Specialization](https://www.coursera.org/learn/algorithms-part1) | UC San Diego  | Data Structures + Algorithms| Approximately 8 months | 6 hours/week | 
 [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | Princeton | Data Structures + Algorithms| N/A | 54 hours |
