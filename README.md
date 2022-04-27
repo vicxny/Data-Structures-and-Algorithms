@@ -8,7 +8,7 @@
 
 [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
 
-[NeetCode.io](https://NeetCode.io)
+[NeetCode.io](https://NeetCode.io) - [GitHub](https://github.com/vicxny/coding-interview-university)
 
 ## Courses
 
@@ -45,11 +45,11 @@ Coursera Courses | Offered by | Type | Month | Pace |
 
 [TryExponent's Videos](https://www.tryexponent.com/courses/software-engineering/data-structures/sorting-algorithms)
 
-[NeetCode's Playlist](https://www.youtube.com/c/NeetCode/playlists)
+[NeetCode's Playlist](https://www.youtube.com/c/NeetCode/playlists) - [GitHub](https://github.com/vicxny/NeetCode)
 
 ## Books
 
-Cracking the Coding Interview
+Cracking the Coding Interview - [GitHub](https://github.com/vicxny/Cracking-The-Coding-Interview)
 
 The Elements of Programming interviews
 
@@ -62,7 +62,7 @@ The Elements of Programming interviews
 
 [HackerRank](https://www.hackerrank.com/interview/interview-preparation-kit)
 
-[Top 75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
+[Top 75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) - [GitHub](https://github.com/vicxny/Leetcode-BLIND-75)
 
 [Ranking Interview Questions by Cram Score](https://jeremyaguilon.me/blog/ranking_interview_questions_by_cram_score)
 
