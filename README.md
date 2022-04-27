@@ -8,7 +8,7 @@
 
 [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
 
-[NeetCode.io](https://NeetCode.io) - [GitHub](https://github.com/vicxny/coding-interview-university)
+[NeetCode.io](https://NeetCode.io)
 
 ## Courses
 
