@@ -62,7 +62,7 @@ The Elements of Programming interviews
 
 [HackerRank](https://www.hackerrank.com/interview/interview-preparation-kit)
 
-[Top 75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) - [GitHub](https://github.com/vicxny/Leetcode-BLIND-75)
+[Leetcode Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) - [GitHub](https://github.com/vicxny/Leetcode-BLIND-75)
 
 [Ranking Interview Questions by Cram Score](https://jeremyaguilon.me/blog/ranking_interview_questions_by_cram_score)
 
