@@ -57,7 +57,7 @@ The Elements of Programming Interviews
 
 [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds/index.html)
 
-[Data Structures and Algorithms in Python](https://runestone.academy/ns/books/published/pythonds/index.html)
+[Data Structures and Algorithms in Python](http://xpzhang.me/teach/DS19_Fall/book.pdf)
 
 
 
