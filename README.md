@@ -47,7 +47,7 @@ Coursera Courses | Offered by | Type | Month | Pace |
 
 [TryExponent's Videos](https://www.tryexponent.com/courses/software-engineering/data-structures/sorting-algorithms)
 
-[NeetCode's Playlist](https://www.youtube.com/c/NeetCode/playlists) - [GitHub](https://github.com/vicxny/Data-Structures-and-Algorithms/tree/main/NeetCode)
+[NeetCode's Playlist](https://www.youtube.com/c/NeetCode/playlists) 
 
 ## Books
 
