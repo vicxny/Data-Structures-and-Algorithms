@@ -72,3 +72,7 @@ The Elements of Programming Interviews
 [Ranking Interview Questions by Cram Score](https://jeremyaguilon.me/blog/ranking_interview_questions_by_cram_score)
 
 [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview) - [GitHub](https://github.com/vicxny/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions)
+
+[Interview Cake](https://www.interviewcake.com/)
+
+[Ranking Interview Questions by Cram Score](https://jeremyaguilon.me/blog/ranking_interview_questions_by_cram_score)
