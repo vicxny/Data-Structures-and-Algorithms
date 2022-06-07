@@ -1,4 +1,5 @@
-# [Coursera Courses](https://github.com/vicxny/Coursera)
+# Data Structures and Algorithms
+## [Coursera Courses](https://github.com/vicxny/Coursera)
 
 Coursera Courses | Offered by | Type | Month | Pace |
 :-- | :--: | :--: | :--: | :--: |
