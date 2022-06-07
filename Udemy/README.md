@@ -1,4 +1,5 @@
-# [Udemy Courses](https://github.com/vicxny/Udemy)
+# Data Structures and Algorithms
+## [Udemy Courses](https://github.com/vicxny/Udemy)
 
 Udemy Courses | Instructor | Type | Duration |
 :-- | :--: | :--: | :--: |
