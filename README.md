@@ -10,6 +10,8 @@
 
 [NeetCode.io](https://NeetCode.io)
 
+[Algo Monster](https://algo.monster/)
+
 ## Courses
 
 [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
