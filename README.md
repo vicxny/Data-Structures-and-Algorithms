@@ -80,3 +80,5 @@ The Elements of Programming Interviews
 [Interview Cake](https://www.interviewcake.com/)
 
 [Ranking Interview Questions by Cram Score](https://jeremyaguilon.me/blog/ranking_interview_questions_by_cram_score)
+
+## Inspiration
