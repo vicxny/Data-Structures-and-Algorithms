@@ -59,7 +59,7 @@ Coursera Courses | Offered by | Type | Month | Pace |
 
 The Elements of Programming Interviews
 
-The Algorithm Design Manual by Steven S. Skiena
+[The Algorithm Design Manual by Steven S. Skiena](https://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf)
 
 [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds/index.html)
 
