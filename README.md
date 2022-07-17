@@ -82,3 +82,4 @@ The Elements of Programming Interviews
 [Ranking Interview Questions by Cram Score](https://jeremyaguilon.me/blog/ranking_interview_questions_by_cram_score)
 
 ## Inspiration
+[AMZ | Google | Facebook | Offer | Reject| Reject | My journey from failure to offer at FAANG](https://leetcode.com/discuss/interview-experience/716202/amz-google-facebook-offer-reject-reject-my-journey-from-failure-to-offer-at-faang)
