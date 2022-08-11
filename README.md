@@ -53,6 +53,10 @@ Coursera Courses | Offered by | Type | Month | Pace |
 
 [NeetCode's Playlist](https://www.youtube.com/c/NeetCode/playlists) 
 
+[Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+
+[Data Structures and Algorithms in Python](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)
+
 ## Books
 
 [Cracking the Coding Interview](https://github.com/yogathanh99/Books/blob/master/Cracking.the.Coding.Interview.6th.Edition.pdf) - [GitHub](https://github.com/vicxny/Cracking-The-Coding-Interview) - [Video](https://www.youtube.com/watch?v=yG0RhKFTonw)
@@ -64,7 +68,6 @@ The Elements of Programming Interviews
 [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds/index.html)
 
 [Data Structures and Algorithms in Python](http://xpzhang.me/teach/DS19_Fall/book.pdf)
-
 
 
 ## Problems
