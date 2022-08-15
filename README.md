@@ -14,7 +14,7 @@
 
 ## Courses
 
-[yangshun/tech-interview-handbook}(https://github.com/yangshun/tech-interview-handbook)
+[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 
 [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
 
