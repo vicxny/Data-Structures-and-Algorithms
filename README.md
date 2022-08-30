@@ -16,6 +16,8 @@
 
 [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 
+[kdn251/interviews](https://github.com/kdn251/interviews)
+
 [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
 
 [Stony Brook CSE 373 Analysis of Algorithms ](https://www.youtube.com/playlist?list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx)
