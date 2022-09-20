@@ -80,6 +80,8 @@ The Elements of Programming Interviews
 
 [Data Structures and Algorithms in Python](http://xpzhang.me/teach/DS19_Fall/book.pdf)
 
+[Algorithms Illuminated Omnibus Edition](https://algorithmsilluminated.org/)
+
 
 ## Problems
 
@@ -101,3 +103,6 @@ The Elements of Programming Interviews
 [AMZ | Google | Facebook | Offer | Reject| Reject | My journey from failure to offer at FAANG](https://leetcode.com/discuss/interview-experience/716202/amz-google-facebook-offer-reject-reject-my-journey-from-failure-to-offer-at-faang)
 
 [Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
+
+## Extra
+[The Algorithms](https://the-algorithms.com/)
