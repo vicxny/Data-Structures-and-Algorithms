@@ -4,6 +4,8 @@
 
 [How To Master Data Structures & Algorithms (Study Strategies)](https://www.youtube.com/watch?v=P8Znk6Cu1Ww)
 
+[My Job Hunt as a Software Engineer with 5 YOE, 100k to 290k TC](https://www.reddit.com/r/cscareerquestions/comments/xpnxy2/my_job_hunt_as_a_software_engineer_with_5_yoe/)
+
 [How I Got Good at Algorithms and Data Structures](https://www.youtube.com/watch?v=9-ubSA9GA3o)
 
 [Udacity's Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
