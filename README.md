@@ -4,7 +4,6 @@
 
 [How To Master Data Structures & Algorithms (Study Strategies)](https://www.youtube.com/watch?v=P8Znk6Cu1Ww)
 
-[My Job Hunt as a Software Engineer with 5 YOE, 100k to 290k TC](https://www.reddit.com/r/cscareerquestions/comments/xpnxy2/my_job_hunt_as_a_software_engineer_with_5_yoe/)
 
 [How I Got Good at Algorithms and Data Structures](https://www.youtube.com/watch?v=9-ubSA9GA3o)
 
@@ -105,6 +104,8 @@ The Elements of Programming Interviews
 [AMZ | Google | Facebook | Offer | Reject| Reject | My journey from failure to offer at FAANG](https://leetcode.com/discuss/interview-experience/716202/amz-google-facebook-offer-reject-reject-my-journey-from-failure-to-offer-at-faang)
 
 [Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
+
+[My Job Hunt as a Software Engineer with 5 YOE, 100k to 290k TC](https://www.reddit.com/r/cscareerquestions/comments/xpnxy2/my_job_hunt_as_a_software_engineer_with_5_yoe/)
 
 ## Extra
 [The Algorithms](https://the-algorithms.com/)
