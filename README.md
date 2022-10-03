@@ -32,6 +32,9 @@
 
 [Stanford's undergraduate algorithms course (CS161)](https://timroughgarden.org/videos.html)
 
+[CS50’s Week 3 Algorithms](https://cs50.harvard.edu/x/2022/weeks/3/)
+[CS50’sWeek 5 Data Structures](https://cs50.harvard.edu/x/2022/weeks/5/)
+
 ### [Udemy Courses](https://github.com/vicxny/Udemy)
 Udemy Courses | Instructor | Type | Duration |
 :-- | :--: | :--: | :--: |
