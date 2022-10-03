@@ -15,6 +15,8 @@
 
 ## Notes
 
+[Notes](https://drive.google.com/drive/folders/1wa5npIJAOfv5npYWXDpVHJ1GwMlQRjIj?usp=sharing)
+
 ## Courses
 
 [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
