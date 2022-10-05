@@ -59,7 +59,7 @@ Coursera Courses | Offered by | Type | Month | Pace |
 
 [HackerRank's Algorithm](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL)
 
-[HackerRank's Data Structure](https://www.youtube.com/watch?v=IhJGJG-9Dx8&list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX)
+[HackerRank's Data Structure](https://www.youtube.com/playlist?list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX)
 
 [Khan Academy's Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 
