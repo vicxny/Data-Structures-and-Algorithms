@@ -7,9 +7,6 @@
 
 [How I Got Good at Algorithms and Data Structures](https://www.youtube.com/watch?v=9-ubSA9GA3o)
 
-[NeetCode.io](https://NeetCode.io)
-
-[Algo Monster](https://algo.monster/)
 
 ## Notes
 
@@ -90,6 +87,10 @@ The Elements of Programming Interviews
 
 
 ## Problems
+
+[NeetCode.io](https://NeetCode.io)
+
+[Algo Monster](https://algo.monster/)
 
 [Codewars](https://www.codewars.com/)
 
