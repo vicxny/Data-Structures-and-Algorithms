@@ -74,6 +74,8 @@ Coursera Courses | Offered by | Type | Month | Pace |
 
 [Data Structures and Algorithms in Python](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)
 
+[Udacity's Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+
 ## Books
 
 [Cracking the Coding Interview](https://github.com/yogathanh99/Books/blob/master/Cracking.the.Coding.Interview.6th.Edition.pdf) - [GitHub](https://github.com/vicxny/Cracking-The-Coding-Interview) - [Video](https://www.youtube.com/watch?v=yG0RhKFTonw)
