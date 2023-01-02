@@ -34,8 +34,8 @@
 
 [CS50’s Week 3 Algorithms](https://cs50.harvard.edu/x/2022/weeks/3/) and [CS50’s Week 5 Data Structures](https://cs50.harvard.edu/x/2022/weeks/5/)
 
-### [MIT OpenCourseWare - Computer Science](https://www.youtube.com/@mitocw/playlists?view=50&sort=dd&shelf_id=5)
-[6.0001 Introduction To Computer Science And Programming In Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)- [Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) - [Advance Data Structures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf) - [Design and Analysis](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
+[MIT OpenCourseWare - Computer Science](https://www.youtube.com/@mitocw/playlists?view=50&sort=dd&shelf_id=5):
+- [6.0001 Introduction To Computer Science And Programming In Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA) - [Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) - [Advance Data Structures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf) - [Design and Analysis](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
 
 ### [Udemy Courses](https://github.com/vicxny/Udemy)
 Udemy Courses | Instructor | Type | Duration |
