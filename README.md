@@ -7,8 +7,6 @@
 
 [How I Got Good at Algorithms and Data Structures](https://www.youtube.com/watch?v=9-ubSA9GA3o)
 
-[Udacity's Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
-
 [NeetCode.io](https://NeetCode.io)
 
 [Algo Monster](https://algo.monster/)
