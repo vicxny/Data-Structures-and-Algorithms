@@ -4,7 +4,6 @@
 
 [How To Master Data Structures & Algorithms (Study Strategies)](https://www.youtube.com/watch?v=P8Znk6Cu1Ww)
 
-
 [How I Got Good at Algorithms and Data Structures](https://www.youtube.com/watch?v=9-ubSA9GA3o)
 
 
@@ -50,6 +49,12 @@ Coursera Courses | Offered by | Type | Month | Pace |
 ## Tools
 
 [PythonTutor](https://pythontutor.com/)
+
+## Websites
+
+[A Practical Guide to Algorithms with JavaScript](https://frontendmasters.com/courses/practical-algorithms/)
+
+[The Ultimate Guide to JavaScript Algorithms Courses](http://web.archive.org/web/20210616161653/https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms)
 
 ## Videos
 
