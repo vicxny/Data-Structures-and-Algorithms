@@ -13,7 +13,7 @@
 
 ## Courses
 
-- [  ] - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+[] - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 
 [kdn251/interviews](https://github.com/kdn251/interviews)
 
