@@ -56,6 +56,8 @@ Coursera Courses | Offered by | Type | Month | Pace |
 
 [The Ultimate Guide to JavaScript Algorithms Courses](http://web.archive.org/web/20210616161653/https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms)
 
+[Women Who Code's Algo](https://github.com/WomenWhoCode/wwcsf-algos)
+
 ## Videos
 
 [HackerRank's Algorithm](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL)
