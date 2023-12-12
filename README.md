@@ -11,6 +11,8 @@
 
 [Notes](https://drive.google.com/drive/folders/1wa5npIJAOfv5npYWXDpVHJ1GwMlQRjIj?usp=sharing)
 
+[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+
 ## Courses
 
 - [ ] [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
